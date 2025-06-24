@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gokul Raj S M
-
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gokulrajbusiness)
 🚀 Full Stack Developer | Backend Specialist | API Designer
 
 ---
