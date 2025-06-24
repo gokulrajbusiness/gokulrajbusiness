@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gokul Raj S M
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gokulrajbusiness)
+
 🚀 Full Stack Developer | Backend Specialist | API Designer
 
 ---
@@ -35,3 +35,10 @@ I’m a passionate Full Stack Developer with a strong foundation in backend syst
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/gokul-raj-s-m)
+
+---
+[![LeetCode](https://img.shields.io/badge/LeetCode-🟠%20GokulRajSM-orange)](https://leetcode.com/Gokulraj2202)
+
+---
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=gokulrajbusiness)
