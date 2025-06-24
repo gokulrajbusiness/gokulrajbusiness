@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Gokul Raj S M
 
-🚀 Full Stack Developer | Backend Specialist | API Designer
+🚀 Java Full Stack Developer | Backend Specialist | API Designer
 
 ---
 
 ### 💡 About Me
 
-I’m a passionate Full Stack Developer with a strong foundation in backend systems and API development. I enjoy crafting robust, scalable, and clean solutions using modern technologies.
+Over 4 years professional experience in development of Monolithic applications and Microservices using Java language and working on Agile and Software Development Life Cycle (SDLC) and SOLID principles.
 
 ---
 
@@ -14,8 +14,8 @@ I’m a passionate Full Stack Developer with a strong foundation in backend syst
 
 - **Backend**: Java, Spring Boot  
 - **Frontend**: Angular  
-- **Databases**: SQL Server  
-- **Messaging**: Apache Kafka  
+- **Databases**: SQL Server, MongoDB  
+- **Messaging**: Apache Kafka, RabbitMQ  
 - **Caching**: Redis  
 - **APIs**: RESTful API Design & Development  
 
